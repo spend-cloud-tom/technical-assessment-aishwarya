@@ -1,4 +1,5 @@
-# Tech assessment 
+# Tech assessment
+
 ## For the role of Software Engineer at Visma | ProActive
 
 This repository contains an install of [Nuxt](https://nuxt.com/) with a simple layout and a few pages. It also has a couple of modules installed. There's one module that connects to the [Pokemon API](https://pokeapi.co/).
@@ -26,5 +27,3 @@ Connect to an additional API: the Rick and Morty API. Display a list of characte
 Please submit your solution as a pull request to this repository. The PR should include a description of the changes you made and how to run the project locally.
 
 Good luck! 🚀
-
-

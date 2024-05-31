@@ -11,7 +11,7 @@ export default defineNuxtConfig({
     '@nuxt/ui',
     'nuxt-api-party',
     '@nuxt/image',
-    "nuxt-icon"
+    'nuxt-icon',
   ],
 
   pinia: {
